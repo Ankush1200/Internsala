@@ -33,7 +33,7 @@ This Flutter project fetches internships and job openings from an internet API a
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/Ankush1200/employee_details.git
+   git clone https://github.com/Ankush1200/Internsala.git
 
 2. **Install dependencies**
    ```bash
