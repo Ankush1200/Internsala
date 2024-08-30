@@ -3,15 +3,14 @@
 # Overview
 This Flutter project fetches internships and job openings from an internet API and displays them through an interactive user interface. The app includes filtering features to enhance the user experience.
 
-
 ## Features
 
 - **Fetch Data from API:** The app makes network requests to retrieve internships and job openings from an internet API. 
 - **Interactive User Interface:** Displays all the internships and job openings in a user-friendly manner.
 - **Filtering Options:**
-  - **By Job Title** Easily filter employees based on gender.
-  - **By Work Type:** Select any desired age range using the Flutter Slider widget.
-  - **By Salary:** Select any desired age range using the Flutter Slider widget.
+  - **By Job Title:** Easily Search based on Job Titles.
+  - **By Work Type:** You can apply filter by work type like 'Remote' or 'Office'.
+  - **By Salary:** You can also apply filter by salary.
 
 ## Technology Used
 
@@ -43,7 +42,6 @@ This Flutter project fetches internships and job openings from an internet API a
    flutter run
 
 **Download APK**
-    ```bash
     build\app\outputs\flutter-apk\app-release.apk (20.5MB)
 
 
